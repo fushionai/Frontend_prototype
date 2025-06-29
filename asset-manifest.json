@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/28jun_frontend/static/css/main.c2f7b67a.css",
+    "main.js": "/28jun_frontend/static/js/main.b3db0ea9.js",
+    "index.html": "/28jun_frontend/index.html",
+    "main.c2f7b67a.css.map": "/28jun_frontend/static/css/main.c2f7b67a.css.map",
+    "main.b3db0ea9.js.map": "/28jun_frontend/static/js/main.b3db0ea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f7b67a.css",
+    "static/js/main.b3db0ea9.js"
+  ]
+}
